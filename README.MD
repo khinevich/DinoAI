@@ -1,4 +1,4 @@
-For macOS Users, type this command in console and run the main.py
+For macOS Users, type this command in console:
 env /usr/bin/arch -x86_64 /bin/zsh --login
 #arch
 #x86_64
